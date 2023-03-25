@@ -1,0 +1,8 @@
+# Jupyter-lab checkpoints
+.ipynb_checkpoints
+
+# Data
+data/*
+
+# outputs
+outputs/*
